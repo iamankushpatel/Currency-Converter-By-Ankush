@@ -1,3 +1,8 @@
+/* 
+IMPORTANT:
+The API used for currency conversion is no longer returning valid data.
+Looking for suggestions for a free reliable API!
+*/
 const BASE_URL = "https://api.exchangerate.host/convert";
 
 const dropdowns=document.querySelectorAll(".dropdown select");
